@@ -15,6 +15,12 @@
 </p>
 </div> 
 
-- 🎓 I'm currently studying at Karadeniz Technical University Management Information Systems.
+- 🎓 I'm currently studying at Karadeniz Technical University Management Information Systems. 
+- 📈 I am currently learning **Javascript-> (React.js) , (Node.js) , (Vue.js) **. 
+- 💬 Ask me about **HTML, CSS, JavaScript , SQL** 
+
+
+<h2 align='left''> Tech I Use <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 27px> </h2> 
+
 
 
