@@ -6,6 +6,8 @@
 
 <h3 align="left"> Thanks for visiting my profile :rose: </h3> 
 
-- 🎓 I'm currently studying at Karadeniz Technical University Management Information Systems.
+<div size='20px'> 
+<p align='left'>
+<h2 align='left'> Reach Out to me! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 
 
