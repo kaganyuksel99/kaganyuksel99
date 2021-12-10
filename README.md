@@ -13,6 +13,8 @@
 <a href="https://www.twitter.com/kgnyk59" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="86"></a> 
 <a href="mailto:kaanyk07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"width="73"  ></a>
 </p>
-</div>
+</div> 
+
+- 🎓 I'm currently studying at Karadeniz Technical University Management Information Systems.
 
 
